@@ -15,3 +15,4 @@ Emaily is a platform to send promotional and marketing emails to customers.
 * Stripe API to handle payment.
 * Material.JS and SCSS for styling 
 
+
